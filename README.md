@@ -68,7 +68,7 @@ example.py：针对函数接口，实现了一些调用Func_interface.py中接�
 
 ​		
 
-3. def <font color=#FF0000>get_Awb_CCM(img:np.ndarray, ccm_mode = True, awbmodel_path='./MDCC/pretrained/transsion_old.pth', device='cpu')</font>
+- def <font color=#FF0000>get_Awb_CCM(img:np.ndarray, ccm_mode = True, awbmodel_path='./MDCC/pretrained/transsion_old.pth', device='cpu')</font>
 
 ```
 功能：
@@ -94,7 +94,7 @@ example.py：针对函数接口，实现了一些调用Func_interface.py中接�
 
 
 
-4. def img_gamma(img:np.ndarray)
+- def img_gamma(img:np.ndarray)
 
 ```
 功能：
